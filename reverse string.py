@@ -13,7 +13,7 @@ def reversestring(a):
         sum=sum+a[i]
     return sum
 n=str(input("entre string\n"))
-=======
+============
 def reversestring(a):
     a=list(a)
     n=len(a)
